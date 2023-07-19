@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. Initialize express
 // 2. Initialize the route
 // 3. Listen to the port
